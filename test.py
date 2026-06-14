@@ -1,4 +1,4 @@
 
 mystring = "halkjdlo"
-
-print(mystring[2:])
+target = "halk"
+print((mystring[0: len(target)]))
